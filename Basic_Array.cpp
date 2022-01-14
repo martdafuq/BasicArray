@@ -79,12 +79,6 @@ class My2DArray{
 		}	
 };
 
-/*class My3DArray{
-	private:
-		int arr[_LENNGTH][_LENNGTH][_LENNGTH];
-	
-};*/
-
 class MyStack{
 	private:
 		int arr[_LENGTH];
