@@ -5,8 +5,6 @@ using namespace std;
 
 //const int LENGTH = 10;
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
-
 class Test{
 	private:
 		int x;
